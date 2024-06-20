@@ -1,4 +1,3 @@
-// Imports
 const { Schema, model } = require("mongoose");
 
 // User
